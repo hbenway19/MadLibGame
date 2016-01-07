@@ -21,3 +21,10 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+
+print("Welcome, please input your name and the number you would like")
+
+var name = input()
+
+var number1 = input()
+
