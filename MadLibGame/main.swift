@@ -18,6 +18,7 @@ func input() -> String {
 
 print("Welcome, please input your name and the number you would like")
 
+
 func menu(){
     print("1 Your Restraunt")
     var r = input()
@@ -25,8 +26,6 @@ func menu(){
     print("Your Plan for World Domination")
     var b = input()
 }
-
-
 
 func mattsCode(){
 
