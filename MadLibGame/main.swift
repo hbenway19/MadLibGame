@@ -29,28 +29,22 @@ func menu(){
 
 func mattsCode(){
 
-    print("Name of Company")
+print("Name of Company")
 var a = input()
-
+    
 print("What are you inventing?")
 var b = input()
-
+    
 print("Who?")
 var c = input()
-
+    
 print("Solve a Problem")
 var d = input()
-
+    
 print("Secret Sauce")
 var e = input()
+    
+    
+print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")}
 
 
-print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")
-}
-
-
-
-
-
-
-print("HUE")
