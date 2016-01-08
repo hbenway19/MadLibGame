@@ -18,25 +18,19 @@ func input() -> String {
 
 print("Welcome, please input your name and the number you would like")
 
+func menu(){
+    print("1 Your Restraunt")
+    var r = input()
+    
+    print("Tiger name this one")
+    var b = input()
+}
 
 
 
+func mattsCode(){
 
-
-
-
-
-
-
-
-
-
-
-var name = input()
-
-var number1 = input()
-
-print("Name of Company")
+    print("Name of Company")
 var a = input()
 
 print("What are you inventing?")
@@ -54,4 +48,6 @@ var e = input()
 
 print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")
 
+
 print("HUE")
+}
