@@ -16,17 +16,6 @@ func input() -> String {
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
-print("Welcome, please input the number you would like")
-
-
-func menu(){
-    print("Please select from the following:")
-    var one = 1
-    print("\(one)\n\n\nYour Restraunt")
-    print("Your Plan for World Domination")
-    var b = input()
-}
-
 func mattsCode(){
 
     print("Name of Company")
