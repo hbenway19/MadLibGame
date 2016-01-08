@@ -23,7 +23,7 @@ func menu(){
     var r = input()
     
     print("Tiger name this one")
-    var b = input()
+    var s = input()
 }
 
 
