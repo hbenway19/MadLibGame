@@ -22,7 +22,7 @@ func menu(){
     print("1 Your Restraunt")
     var r = input()
     
-    print("Tiger name this one")
+    print("Your Plan for World Domination")
     var b = input()
 }
 
