@@ -8,9 +8,6 @@
 
 import Foundation
 
-
-
-
 func input() -> String {
     var keyboard = NSFileHandle.fileHandleWithStandardInput()
     var inputData = keyboard.availableData
@@ -20,6 +17,20 @@ func input() -> String {
 }
 
 print("Welcome, please input your name and the number you would like")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 var name = input()
 
