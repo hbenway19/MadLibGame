@@ -23,6 +23,8 @@ func menu(){
     print("Please select from the following:")
     var one = 1
     print("\(one)\n\n\nYour Restraunt")
+    print("Your Plan for World Domination")
+    var b = input()
 }
 
 func mattsCode(){
