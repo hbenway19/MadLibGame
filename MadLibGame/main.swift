@@ -44,33 +44,35 @@ func mattsCode2(){
     
     
 print("Body part")
-
+var a = input()
 print("Body part")
-    
+var b = input()
 print("Number")
-
+var c = input()
 print("Adjective")
-    
+var d = input()
 print("Color")
-    
+var e = input()
 print("Plural noun")
-    
+var f = input()
 print("Verb")
-    
+var g = input()
 print("Plural noun")
-
+var h = input()
 print("Body part")
-
+var i = input()
 print("Noun")
-    
+var j = input()
 print("Verb")
-
+var k = input()
 print("Adjective")
-    
+var l = input()
 print("Verb")
-
+var m = input()
 print("Verb")
-
+var n = input()
 print("Noun")
-
+var o = input()
+    
+print("He holds out his \(a), and in his \(b) are \(c) \(d) \(e) \(f) linked with a thick black thread ... Inside me! I \(g), and all the \(h) deep in my \(i) clench. My inner \(j) is doing the \(k) of the seven veils. It's a \(l) feeling. Once they're inside me, I cant really \(m) them-but then again I know they're there. I may have to \(n) these. They make me needy, needy for \(o)")
 }
