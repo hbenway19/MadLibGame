@@ -38,3 +38,39 @@ print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")
 }
 
 
+
+
+func mattsCode2(){
+    
+    
+print("Body part")
+
+print("Body part")
+    
+print("Number")
+
+print("Adjective")
+    
+print("Color")
+    
+print("Plural noun")
+    
+print("Verb")
+    
+print("Plural noun")
+
+print("Body part")
+
+print("Noun")
+    
+print("Verb")
+
+print("Adjective")
+    
+print("Verb")
+
+print("Verb")
+
+print("Noun")
+
+}
