@@ -17,7 +17,7 @@ func input() -> String {
 }
 
 print("Welcome, please select one to continue")
-
+/*
 var number = input()
 var correctInput = false
 
@@ -32,7 +32,7 @@ while correctInput == false {
     }
     
 } //menu - Hannah
-
+*/
 func mattsCode(){
 
 print("Name of Company")
