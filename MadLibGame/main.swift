@@ -15,7 +15,7 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
-
+/*
 print("Welcome, please select one to continue")
 
 var number = input()
@@ -32,7 +32,7 @@ while correctInput == false {
     }
     
 } //menu - Hannah
-
+*/
 func mattsCode(){
 
 print("Name of Company")
