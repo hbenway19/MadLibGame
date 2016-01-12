@@ -16,6 +16,23 @@ func input() -> String {
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
+print("Welcome, please select one to continue")
+
+var number = input()
+var correctInput = false
+
+while correctInput == false {
+    if number == []{
+        correctInput = true
+        print("")
+    } else {
+        print("\(number) is not valid")
+        print("Please input a number from the list above")
+        number = input()
+    }
+    
+} //menu - Hannah
+
 func mattsCode(){
 
 print("Name of Company")
