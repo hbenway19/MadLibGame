@@ -103,6 +103,7 @@ print("Noun")
 var o = input()
     
 print("He holds out his \(a), and in his \(b) are \(c) \(d) \(e) \(f) linked with a thick black thread ... Inside me! I \(g), and all the \(h) deep in my \(i) clench. My inner \(j) is doing the \(k) of the seven veils. It's a \(l) feeling. Once they're inside me, I cant really \(m) them-but then again I know they're there. I may have to \(n) these. They make me needy, needy for \(o)")
+
 }
 
 func mattsCode3(){
