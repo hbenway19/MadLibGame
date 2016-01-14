@@ -16,6 +16,34 @@ func input() -> String {
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
+func menu() {
+    print("Welcome")
+    print("Choose from the following MadLibs")
+    print("For Fifty Shades of MadLibs enter 1")
+    print("For Restraunt enter 2")
+    print("For World Domination enter 3")
+    print("For Taken Liam Neeson enter 4")
+    print("For Pizza enter 5")
+    print("To exit enter 6")
+    let a = input()
+    if a == "1"{
+        mattsCode()
+    }
+    if a == "2"{
+        mattsCode2()
+    }
+    if a == "3"{
+        worldDomination()
+    }
+    if a == "4"{
+        TakenLiamNeeson()
+    }
+    if a == "5"{
+        mattsCode3()
+    }
+   
+}
+
 func mattsCode(){
 
 print("Name of Company")
@@ -166,20 +194,4 @@ func TakenLiamNeeson(){
  print("I don't know who you are. I don't know what you want. If you are looking for \(a), I can tell you I don't have \(b). But what I do have are a very particular set of \(c), \(c) I have acquired over a very long \(d). Skills that make me a \(e) for people like you. If you let my \(f) go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will \(g) you.")
 }
 
-func menu() {
-        print("Welcome")
-        print("Choose from the following MadLibs")
-        var a = input()
-        if a == "1"{
-        mattsCode()
-        }
-        if a == "2"{
-            mattsCode2()
-        }
-        if a == "3"{
-            worldDomination()
-        }
-        if a == "4"{
-            TakenLiamNeeson()
-        }
-}
+menu()
