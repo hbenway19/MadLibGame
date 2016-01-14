@@ -108,7 +108,7 @@ var e = input()
 print("noun")
 var f = input()
 print("adjective")
-var g = input()
+var G = input()
 print("adjective")
 var h = input()
 print("plural noun")
@@ -126,8 +126,7 @@ var n = input()
 print("number")
 var o = input()
 
-print("Pizza was invented by a \(a) \(b) chef named")
-
+print("Pizza was invented by a \(a) \(b) chef named \(c). To make a pizza, you need to take a lump of \(d), and make a thin, round \(e) \(f). Then you cover it with \(G) sauce, \(h) cheese, and fresh chopped \(i). Next you have to bake it in very hot \(j). When it is done, cut it into \(k) \(l). Some kids like \(m) pizza the best, but my favorite is the \(n) pizza. if i could, i would eat pizza \(o) times a day!")
 
 
 
