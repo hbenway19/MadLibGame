@@ -76,6 +76,47 @@ var o = input()
     
 print("He holds out his \(a), and in his \(b) are \(c) \(d) \(e) \(f) linked with a thick black thread ... Inside me! I \(g), and all the \(h) deep in my \(i) clench. My inner \(j) is doing the \(k) of the seven veils. It's a \(l) feeling. Once they're inside me, I cant really \(m) them-but then again I know they're there. I may have to \(n) these. They make me needy, needy for \(o)")
 }
+
+func mattsCode3(){
+print("adjective")
+var a = input()
+print("nationality")
+var b = input()
+print("person")
+var c = input()
+print("noun")
+var d = input()
+print("adjective")
+var e = input()
+print("noun")
+var f = input()
+print("adjective")
+var G = input()
+print("adjective")
+var h = input()
+print("plural noun")
+var i = input()
+print("noun")
+var j = input()
+print("number")
+var k = input()
+print("shapes")
+var l = input()
+print("food")
+var m = input()
+print("food")
+var n = input()
+print("number")
+var o = input()
+
+print("Pizza was invented by a \(a) \(b) chef named \(c). To make a pizza, you need to take a lump of \(d), and make a thin, round \(e) \(f). Then you cover it with \(G) sauce, \(h) cheese, and fresh chopped \(i). Next you have to bake it in very hot \(j). When it is done, cut it into \(k) \(l). Some kids like \(m) pizza the best, but my favorite is the \(n) pizza. if i could, i would eat pizza \(o) times a day!")
+
+
+
+
+}
+
+
 //matt
 
 
