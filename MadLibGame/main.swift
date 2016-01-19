@@ -68,7 +68,7 @@ print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")
 menu()
 }
 
-//matt
+//matt = this is a function and it is the mad lib. This mad lib is about a restraunt
 
 
 
@@ -107,7 +107,7 @@ print("Noun")
 var o = input()
     
 print("He holds out his \(a), and in his \(b) are \(c) \(d) \(e) \(f) linked with a thick black thread ... Inside me! I \(g), and all the \(h) deep in my \(i) clench. My inner \(j) is doing the \(k) of the seven veils. It's a \(l) feeling. Once they're inside me, I cant really \(m) them-but then again I know they're there. I may have to \(n) these. They make me needy, needy for \(o)")
-menu() //madlibs code = matt
+menu() //madlibs code this is a function = matt
 }
 
 func mattsCode3(){
@@ -144,7 +144,7 @@ var o = input()
 
 print("Pizza was invented by a \(a) \(b) chef named \(c). To make a pizza, you need to take a lump of \(d), and make a thin, round \(e) \(f). Then you cover it with \(G) sauce, \(h) cheese, and fresh chopped \(i). Next you have to bake it in very hot \(j). When it is done, cut it into \(k) \(l). Some kids like \(m) pizza the best, but my favorite is the \(n) pizza. if i could, i would eat pizza \(o) times a day!")
 
-menu()
+menu() //Matts code, this is a func and it is the mad lib. It is about making pizza
 
 }
 
@@ -177,7 +177,7 @@ func worldDomination(){
     var r = input()
     
     print("You are \(b) a evil villian. You are a villian becuase \(b) this must be accomplished. Your evil idea is \(i) this is your planto victory. Your evil base is in \(l) it has great defences and no one will expect it. Your evil nemeisis is \(n) he must be destroyed to dominate the world. Your ultimate weapon is \(s) this will cripple anyone who stands in your way. Your first target for world domination is \(y) this place will need to be in a good location. Your evil costume is \(c) This will be very intimidating. Your backup plan is \(p) This is needed in case you will not dominate the Earth. Your retirement plan is to \(r) This is after you have dominated the world. Congratsulations Villian you are ready for world domination go out there and beat \(n). This is a product of Juan coporation. Copyright 2016 all rights reserved ")
-menu()
+menu() //Tigers code. This is a func and it is about world dom.
 
 }
 
@@ -200,4 +200,4 @@ func TakenLiamNeeson(){
  print("I don't know who you are. I don't know what you want. If you are looking for \(a), I can tell you I don't have \(b). But what I do have are a very particular set of \(c), \(c) I have acquired over a very long \(d). Skills that make me a \(e) for people like you. If you let my \(f) go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will \(g) you.")
     
 }
-menu()
+menu() //Tiger, this is a func. It is about Taken Liam Neeson
