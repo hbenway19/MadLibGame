@@ -41,6 +41,9 @@ func menu() {
     if a == "5"{
         mattsCode3()
     }
+    if a == ""{
+    print("Please enter a valid number")
+    }
 }
 // menu connects all functions together and gives you synopsis for what each madlib is. = Hannah
 func mattsCode(){
