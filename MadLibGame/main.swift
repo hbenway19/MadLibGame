@@ -61,7 +61,9 @@ var e = input()
     
     
 print("My company \(a) is developing \(b) to help \(c) \( d) with \(e)")
+menu()
 }
+
 //matt
 
 
@@ -138,8 +140,7 @@ var o = input()
 
 print("Pizza was invented by a \(a) \(b) chef named \(c). To make a pizza, you need to take a lump of \(d), and make a thin, round \(e) \(f). Then you cover it with \(G) sauce, \(h) cheese, and fresh chopped \(i). Next you have to bake it in very hot \(j). When it is done, cut it into \(k) \(l). Some kids like \(m) pizza the best, but my favorite is the \(n) pizza. if i could, i would eat pizza \(o) times a day!")
 
-
-
+menu()
 
 }
 
@@ -172,6 +173,8 @@ func worldDomination(){
     var r = input()
     
     print("You are \(b) a evil villian. You are a villian becuase \(b) this must be accomplished. Your evil idea is \(i) this is your planto victory. Your evil base is in \(l) it has great defences and no one will expect it. Your evil nemeisis is \(n) he must be destroyed to dominate the world. Your ultimate weapon is \(s) this will cripple anyone who stands in your way. Your first target for world domination is \(y) this place will need to be in a good location. Your evil costume is \(c) This will be very intimidating. Your backup plan is \(p) This is needed in case you will not dominate the Earth. Your retirement plan is to \(r) This is after you have dominated the world. Congratsulations Villian you are ready for world domination go out there and beat \(n). This is a product of Juan coporation. Copyright 2016 all rights reserved ")
+menu()
+
 }
 
 func TakenLiamNeeson(){
