@@ -41,8 +41,6 @@ func menu() {
     if a == "5"{
         mattsCode3()
     }
-   
-}
 
 func mattsCode(){
 
