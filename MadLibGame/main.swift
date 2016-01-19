@@ -198,7 +198,6 @@ func TakenLiamNeeson(){
     var g = input()
 
  print("I don't know who you are. I don't know what you want. If you are looking for \(a), I can tell you I don't have \(b). But what I do have are a very particular set of \(c), \(c) I have acquired over a very long \(d). Skills that make me a \(e) for people like you. If you let my \(f) go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will \(g) you.")
-menu()
+    
 }
-
-//Tiger MadLib
+menu()
