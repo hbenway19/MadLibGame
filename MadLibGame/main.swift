@@ -19,8 +19,8 @@ func input() -> String {
 func menu() {
     print("Welcome")
     print("Choose from the following MadLibs")
-    print("For Fifty Shades of MadLibs enter 2")
     print("For Restraunt enter 1")
+    print("For Fifty Shades of MadLibs enter 2")
     print("For World Domination enter 3")
     print("For Taken Liam Neeson enter 4")
     print("For Pizza enter 5")
@@ -41,7 +41,11 @@ func menu() {
     if a == "5"{
         mattsCode3()
     }
+    if a == ""{
+    print("Please enter a valid number")
+    }
 }
+// menu connects all functions together and gives you synopsis for what each madlib is. = Hannah
 func mattsCode(){
 
 print("Name of Company")
@@ -103,7 +107,7 @@ print("Noun")
 var o = input()
     
 print("He holds out his \(a), and in his \(b) are \(c) \(d) \(e) \(f) linked with a thick black thread ... Inside me! I \(g), and all the \(h) deep in my \(i) clench. My inner \(j) is doing the \(k) of the seven veils. It's a \(l) feeling. Once they're inside me, I cant really \(m) them-but then again I know they're there. I may have to \(n) these. They make me needy, needy for \(o)")
-menu()
+menu() //madlibs code = matt
 }
 
 func mattsCode3(){
@@ -145,7 +149,7 @@ menu()
 }
 
 
-//matt
+
 
 
 func worldDomination(){
@@ -196,4 +200,4 @@ func TakenLiamNeeson(){
  print("I don't know who you are. I don't know what you want. If you are looking for \(a), I can tell you I don't have \(b). But what I do have are a very particular set of \(c), \(c) I have acquired over a very long \(d). Skills that make me a \(e) for people like you. If you let my \(f) go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will \(g) you.")
 }
 
-menu()
+menu() //Tiger MadLib
